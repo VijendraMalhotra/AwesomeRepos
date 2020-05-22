@@ -7,9 +7,9 @@ A collection of awesome repos
 
 ## Table of Contents
 
-- [Developers - Learning Resources](#learn)
+- [Developers - Learning Resources](#Learning)
 
 
-## learn
+## Learning
 
 - [Developer Learning Resources](https://github.com/lauragift21/awesome-learning-resources/)
