@@ -8,7 +8,7 @@ A collection of awesome repos
 ## Table of Contents
 
 - [Developer Learning Resources](https://github.com/lauragift21/awesome-learning-resources/)
-- [Free Programming Books] (https://github.com/EbookFoundation/free-programming-books)
-- [Best Sites for developers] (https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-- [App Ideas] (https://github.com/florinpop17/app-ideas)
-- [JavaScript] (https://github.com/trekhleb/javascript-algorithms)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/)
+- [Best Sites for developers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/)
+- [App Ideas](https://github.com/florinpop17/app-ideas/)
+- [JavaScript](https://github.com/trekhleb/javascript-algorithms/)
